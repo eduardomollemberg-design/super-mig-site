@@ -1,9 +1,6 @@
 Super MIG - Website Institucional
 Projeto desenvolvido para divulgação dos serviços de uma serralheria.
 
-Preview
-Preview do projeto
-
 Tecnologias utilizadas
 * HTML
 * CSS
@@ -20,3 +17,6 @@ https://supermig.netlify.app
 
 Autor
 Eduardo Mollemberg Gonçalves
+
+Preview
+![Preview do projeto] (preview.png)
