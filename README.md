@@ -1,6 +1,9 @@
 Super MIG - Website Institucional
 Projeto desenvolvido para divulgação dos serviços de uma serralheria.
 
+Preview
+Preview do projeto
+
 Tecnologias utilizadas
 * HTML
 * CSS
