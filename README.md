@@ -18,4 +18,4 @@ https://supermig.netlify.app
 Autor
 Eduardo Mollemberg Gonçalves
 
-![Preview do Projeto] (preview.png)
+![Preview do Projeto] (imagens/preview.png)
